@@ -1,0 +1,17 @@
+[
+	{
+		"fname":"lovey1",
+		"lname": "goodwin1",
+		"age": 51
+	},
+	{
+		"fname":"lovey2",
+		"lname": "goodwin2",
+		"age": 52
+	},
+	{
+		"fname":"lovey3",
+		"lname": "goodwin3",
+		"age": 53
+	}	
+]
