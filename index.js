@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
     res.send("Hello world")
 })
 
-app.get("/players", (req, res) => {
+app.get("/data", (req, res) => {
     res.send(importData)
 })
 
