@@ -1,115 +1,117 @@
 {
-	"id": 0,
-	"title": "Be Found",
-	"menus": [
-		{
-			"home": "home",
-			"about": "about",
-			"services": "services",
-			"contact": "contact"
-		}									
-	],
-	"urls": [ 
-		{
-			"id": "0",
-			"img": "https://images.unsplash.com/photo-1524696465145-27f3e2c31352?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1042&q=80",
-			"alt": "Sunflower ",
-			"title": "Sunflower ",
-			"desc": "Aziz Acharki",
-			"link": "https://unsplash.com/@acharki95"
-		},
-		{
-			"id": "1",
-			"img": "https://images.unsplash.com/photo-1595149394986-e149877446f5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=800",
-			"alt": "Red Roses",
-			"title": "Red Roses",
-			"desc": "Tengyart",
-			"link": "https://unsplash.com/@tengyart"
-		},
-		{
-			"id": "3",
-			"img": "https://images.unsplash.com/photo-1588470452858-9022e474b809?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
-			"alt": "Purple Tulips",
-			"title": "Purple Tulips",
-			"desc": "Trevor Vannoy",
-			"link": "https://unsplash.com/@tvannoy"
-		}						
-	],
-	"quote":[ 
-		{  
-			"quote": "I never dream about success, I work at it",	
-			"quotecredit": "Estee Lauder"		
-		},
-		{  
-			"quote": "I never dream about success, I work at it",	
-			"quotecredit": "Estee Lauder"	
-		}			
-
-	],
-	"heading1": "About",
-	"heading1-desc": "Be Found is perfect for a small business that needs to showcase their offerings/services when the website loads. This a single page solution that features something about the organization, three images and texts about your services, a short video about your organization, and Google map and contact form, subscribe form, and social media links.",
-	"team": [
-		{  
-			"img": "https://images.unsplash.com/photo-1583691919795-b66ab8cb40c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=320&q=80",
-			"alt": "Omin Armin",
-			"name": "Omin Armin",
-			"title": "https://unsplash.com/@omidarmin",
-			"social-media": [
-				{  
-					"social-link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
-					"social-link2": "https://www.instagram.com/expansivedesigns/",
-					"social-link3": "https://twitter.com/expansivedesign"
-				}
-			]
-		}
-	],
-	"services": [
-		{  
-			"img": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-			"alt": "Markus Spiske",
-			"name": "Markus Spiske",		
-			"desc": "Photographer - https://unsplash.com/@markusspiske"
-		},
-		{  
-			"img": "https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-			"alt": "Markus Spiske",
-			"name": "Markus Spiske",		
-			"desc": "Photographer - https://unsplash.com/@markusspiske"	
-		},
-		{  
-			"img": "https://images.unsplash.com/photo-1607969892192-8aa9fe65ee26?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzl8fHdvcmtzaG9wfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-			"alt": "Gabriel Jimenez",
-			"name": "Gabriel Jimenez",
-			"desc": "Photographer - https://unsplash.com/@gabrielj_photography"		
-		}					
-	],
-	"video": "https://images.unsplash.com/photo-1558185348-fe8fa4cf631f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzJ8fHBob3RvZ3JhcGh5fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-	"contact": [
-		{
-			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.438726935616!2d-73.86148648509571!3d40.708357445776244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25e11f937d519%3A0x88c3192b93e18a3a!2s9800%20Woodhaven%20Blvd%2C%20Glendale%2C%20NY%2011385!5e0!3m2!1sen!2sus!4v1611151228243!5m2!1sen!2sus",
-			"address": "982 Woodcave Boulevard",
-			"citystate": "Regal Park, MA"
-		}		
-	],
-	"footer1": [
-		{
-			"img": "",
-			"text": "Be Found",
-			"socials": [ 
-				{  
-					"social-link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
-					"social-link2": "https://www.instagram.com/expansivedesigns/",
-					"social-link3": "https://twitter.com/expansivedesign"
-				}										
-			]				
-		}
-	],
-	"footer2": [
-		{
-			"company": "Expansive Designs",
-			"address": "Woodcave, MA"
-		}
-	]
+	"results": {
+		"id": 0,
+		"title": "Be Found",
+		"menus": [
+			{
+				"home": "home",
+				"about": "about",
+				"services": "services",
+				"contact": "contact"
+			}									
+		],
+		"urls": [ 
+			{
+				"id": "0",
+				"img": "https://images.unsplash.com/photo-1524696465145-27f3e2c31352?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1042&q=80",
+				"alt": "Sunflower ",
+				"title": "Sunflower ",
+				"desc": "Aziz Acharki",
+				"link": "https://unsplash.com/@acharki95"
+			},
+			{
+				"id": "1",
+				"img": "https://images.unsplash.com/photo-1595149394986-e149877446f5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=800",
+				"alt": "Red Roses",
+				"title": "Red Roses",
+				"desc": "Tengyart",
+				"link": "https://unsplash.com/@tengyart"
+			},
+			{
+				"id": "3",
+				"img": "https://images.unsplash.com/photo-1588470452858-9022e474b809?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+				"alt": "Purple Tulips",
+				"title": "Purple Tulips",
+				"desc": "Trevor Vannoy",
+				"link": "https://unsplash.com/@tvannoy"
+			}						
+		],
+		"quote":[ 
+			{  
+				"quote": "I never dream about success, I work at it",	
+				"quotecredit": "Estee Lauder"		
+			},
+			{  
+				"quote": "I never dream about success, I work at it",	
+				"quotecredit": "Estee Lauder"	
+			}			
+	
+		],
+		"heading1": "About",
+		"heading1-desc": "Be Found is perfect for a small business that needs to showcase their offerings/services when the website loads. This a single page solution that features something about the organization, three images and texts about your services, a short video about your organization, and Google map and contact form, subscribe form, and social media links.",
+		"team": [
+			{  
+				"img": "https://images.unsplash.com/photo-1583691919795-b66ab8cb40c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=320&q=80",
+				"alt": "Omin Armin",
+				"name": "Omin Armin",
+				"title": "https://unsplash.com/@omidarmin",
+				"social-media": [
+					{  
+						"social-link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
+						"social-link2": "https://www.instagram.com/expansivedesigns/",
+						"social-link3": "https://twitter.com/expansivedesign"
+					}
+				]
+			}
+		],
+		"services": [
+			{  
+				"img": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+				"alt": "Markus Spiske",
+				"name": "Markus Spiske",		
+				"desc": "Photographer - https://unsplash.com/@markusspiske"
+			},
+			{  
+				"img": "https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+				"alt": "Markus Spiske",
+				"name": "Markus Spiske",		
+				"desc": "Photographer - https://unsplash.com/@markusspiske"	
+			},
+			{  
+				"img": "https://images.unsplash.com/photo-1607969892192-8aa9fe65ee26?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzl8fHdvcmtzaG9wfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+				"alt": "Gabriel Jimenez",
+				"name": "Gabriel Jimenez",
+				"desc": "Photographer - https://unsplash.com/@gabrielj_photography"		
+			}					
+		],
+		"video": "https://images.unsplash.com/photo-1558185348-fe8fa4cf631f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzJ8fHBob3RvZ3JhcGh5fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+		"contact": [
+			{
+				"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.438726935616!2d-73.86148648509571!3d40.708357445776244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25e11f937d519%3A0x88c3192b93e18a3a!2s9800%20Woodhaven%20Blvd%2C%20Glendale%2C%20NY%2011385!5e0!3m2!1sen!2sus!4v1611151228243!5m2!1sen!2sus",
+				"address": "982 Woodcave Boulevard",
+				"citystate": "Regal Park, MA"
+			}		
+		],
+		"footer1": [
+			{
+				"img": "",
+				"text": "Be Found",
+				"socials": [ 
+					{  
+						"social-link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
+						"social-link2": "https://www.instagram.com/expansivedesigns/",
+						"social-link3": "https://twitter.com/expansivedesign"
+					}										
+				]				
+			}
+		],
+		"footer2": [
+			{
+				"company": "Expansive Designs",
+				"address": "Woodcave, MA"
+			}
+		]
+	}
 }
 
 	
