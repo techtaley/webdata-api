@@ -1,5 +1,5 @@
 {
-  "name": "webdata-api", 
+  "name": "webdata-api",  
   "version": "1.0.0",
   "description": "node api hosted on heroku",  
   "main": "index.js",
