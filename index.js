@@ -1,14 +1,14 @@
-const express = require("express")
+const express = require("express") 
 const app = express()
 const importData = require("./data.json")
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3000 
 
 //routes
 app.get("/", (req, res) => {
     res.send("Hello world")
 })
 
-app.get("/data", (req, res) => {
+app.get("/data", (req, res) => { 
     res.send(importData)
 })
 

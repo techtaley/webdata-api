@@ -1,10 +1,10 @@
 {
-  "name": "webdata-api",
+  "name": "webdata-api", 
   "version": "1.0.0",
-  "description": "node api hosted on heroku",
+  "description": "node api hosted on heroku",  
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js" 
   },
   "author": "",
   "license": "ISC",
