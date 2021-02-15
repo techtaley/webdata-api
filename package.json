@@ -1,0 +1,17 @@
+{
+  "name": "webdata-api",   
+  "version": "1.0.0",
+  "description": "node api hosted on heroku",  
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "15.0.1"
+  }
+}
