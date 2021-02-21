@@ -2,6 +2,9 @@ const express = require("express")
 const app = express()
 const importData = require("./data.json")
 const port = process.env.PORT || 3000 
+const cors = require("cors")
+
+app.use(cors())
 
 //routes
 app.get("/", (req, res) => {
