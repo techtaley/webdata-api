@@ -96,11 +96,11 @@
 			{
 				"img": "",
 				"text": "Be Found",
-				"socials": [ 
+				"social": [ 
 					{  
-						"social-link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
-						"social-link2": "https://www.instagram.com/expansivedesigns/",
-						"social-link3": "https://twitter.com/expansivedesign"
+						"link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
+						"link2": "https://www.instagram.com/expansivedesigns/",
+						"link3": "https://twitter.com/expansivedesign"
 					}										
 				]				
 			}
