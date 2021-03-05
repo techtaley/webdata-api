@@ -8,7 +8,7 @@ app.use(cors())
 
 //routes
 app.get("/", (req, res) => {
-    res.send("Welcome to my REST API.  The results can be found at https://webdata-api.herokuapp.com/data")
+    res.send("Welcome to my REST API. Type /data to to access endpoint")
 })
 
 app.get("/data", (req, res) => { 
