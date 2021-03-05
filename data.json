@@ -47,14 +47,14 @@
 			}			
 	
 		],
-		"heading1": "About",
-		"heading1-desc": "Be Found is perfect for a small business that needs to showcase their offerings/services when the website loads. This a single page solution that features something about the organization, three images and texts about your services, a short video about your organization, and Google map and contact form, subscribe form, and social media links.",
-		"team": [
+		"about": [
 			{  
 				"img": "https://images.unsplash.com/photo-1583691919795-b66ab8cb40c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=320&q=80",
 				"alt": "Omin Armin",
 				"name": "Omin Armin",
 				"title": "https://unsplash.com/@omidarmin",
+				"heading1": "About",
+				"heading1-desc": "Be Found is perfect for a small business that needs to showcase their offerings/services when the website loads. This a single page solution that features something about the organization, three images and texts about your services, a short video about your organization, and Google map and contact form, subscribe form, and social media links.",		
 				"social-media": [
 					{  
 						"social-link1": "https://www.facebook.com/expansivedesigns/?ref=hl",
