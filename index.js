@@ -7,9 +7,9 @@ const cors = require("cors")
 app.use(cors())
 
 //routes
-app.get("/", (req, res) => {
-    res.send("Welcome to my REST API. Type /data to to access endpoint")
-})
+// app.get("/", (req, res) => {
+//     res.send("Welcome to my REST API.")
+// })
 
 app.get("/data", (req, res) => { 
     res.send(importData)
