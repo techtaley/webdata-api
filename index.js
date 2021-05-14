@@ -6,14 +6,14 @@ const cors = require("cors")
 
 app.use(cors())
 
-//routes
-// app.get("/", (req, res) => {
-//     res.send("Welcome to my REST API.")
-// })
-
-app.get("/data", (req, res) => { 
-    res.send(importData)
+routes
+app.get("/data", (req, res) => {
+    res.send("Welcome to my REST API.")
 })
+
+// app.get("/data", (req, res) => { 
+//     res.send(importData)
+// })
 
 app.listen(port, () => {
     console.log(`Example app is listening on port http://localhost:${port}`)
