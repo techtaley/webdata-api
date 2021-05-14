@@ -8,10 +8,10 @@ app.use(cors())
 
 //routes
 // app.get("/", (req, res) => {
-//     res.send("Welcome to my REST API. => https://webdata-api.herokuapp.com/data")
+//     //res.send("Welcome to my REST API. => https://webdata-api.herokuapp.com/data")
 // })
 
-app.get("/data", (req, res) => { 
+app.get("/", (req, res) => { 
     res.send(importData)
 })
 
